@@ -1,5 +1,4 @@
 # DIY-Assignment1
-Sure, here's a sample description for a DIY Python assignment on Github:
 
 Title: Python DIY Project
 
